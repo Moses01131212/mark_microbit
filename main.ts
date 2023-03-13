@@ -101,5 +101,4 @@ input.onButtonPressed(Button.A, function () {
 //startLet
 let mark = 0
 // setGroup
-//無線
 radio.setGroup(2428)
